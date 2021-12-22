@@ -1,0 +1,30 @@
+body {
+    background-size: cover;text-align: center;font-family: 'Indie Flower', cursive;
+}
+
+.heading {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 25px;
+    font-family: 'Rampart One', cursive;
+}
+
+#button, #status, #num_object {
+    font-size: 17px;
+}
+
+.copy_right_footer {
+    bottom: 0;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.651);
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+}
+canvas{
+    border: 4px solid ;
+    border-radius: 15px;
+    margin-top: 50px;
+    box-shadow: rgb(85, 91, 255) 0px 1px 0px 3px, rgb(31, 193, 27) 0px 0px 0px 6px, rgb(255, 217, 19) 0px 0px 0px 9px, rgb(255, 156, 85) 0px 0px 0px 12px, rgb(255, 85, 85) 0px 0px 0px 15px;}
